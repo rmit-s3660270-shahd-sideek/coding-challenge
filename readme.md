@@ -5,6 +5,10 @@
 An ecommerce store where a user can make an order and see it's status
 An admin can manage the order, Change the status of the order and view all users
 
+## Sources
+- https://blog.pusher.com/ecommerce-laravel-vue-part-1/
+- https://laravel.com/docs/5.8
+
 ### Trouble 
 I couldn't figure out a method for an Admin to delete a product or edit it. 
 I used Laravel instead of Lumen 
@@ -28,10 +32,11 @@ Clone the git repository on your computer
 
 
 ### Run the application
-
- ``` npm install```
- ``` npm run prod```
-  ``` php artisan serve```
+```
+npm install
+npm run prod
+php artisan serve
+```
 
 ## Logins
 User=
