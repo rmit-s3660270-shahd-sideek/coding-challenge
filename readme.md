@@ -38,6 +38,8 @@ Clone the git repository on your computer
 ### Run the application
 ```
 npm install
+php artisan key:generate
+php artisan passport:install
 npm run prod
 php artisan serve
 ```
