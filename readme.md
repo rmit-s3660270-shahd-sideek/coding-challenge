@@ -31,7 +31,7 @@ Clone the git repository on your computer
 
 
 ### Setup
--After the installation, in  the `.env` file , please change the path of  DB_DATABASE to your absolute path. 
+-After the installation, in  the `.env` file , please change the path of  DB_DATABASE to your absolute path of database/store_database.sqlite
 
 
 
