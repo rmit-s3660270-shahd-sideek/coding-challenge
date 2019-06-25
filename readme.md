@@ -23,6 +23,9 @@ Clone the git repository on your computer
 
 ```
  cd coding-challenge
+ curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+ composer global require laravel/valet
+ composer global require "laravel/installer"
  composer install
 ```
 
