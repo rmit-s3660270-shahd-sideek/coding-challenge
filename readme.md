@@ -8,6 +8,7 @@ An admin can manage the order, Change the status of the order and view all users
 ## Sources
 - https://blog.pusher.com/ecommerce-laravel-vue-part-1/
 - https://laravel.com/docs/5.8
+- https://vuejs.org/v2/guide/routing.html
 
 ### Trouble 
 I couldn't figure out a method for an Admin to delete a product or edit it. 
